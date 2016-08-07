@@ -1,0 +1,10 @@
+.price{
+    font-weight:bold;
+    font-style: 16px;
+}
+.thumbnail .description{
+    color:#7F7F7F;
+}
+.thumbnail .images{
+max-height: 160px;
+}
